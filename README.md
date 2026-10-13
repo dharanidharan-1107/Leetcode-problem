@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
