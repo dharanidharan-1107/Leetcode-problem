@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0072-edit-distance) |
 ## Manacher
 |  |
 | ------- |
