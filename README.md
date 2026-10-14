@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
