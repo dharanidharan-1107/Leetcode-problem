@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
