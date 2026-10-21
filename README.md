@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0091-decode-ways) |
 ## Manacher
 |  |
 | ------- |
