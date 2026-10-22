@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0093-restore-ip-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
