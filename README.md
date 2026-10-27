@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0110-balanced-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
