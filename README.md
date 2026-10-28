@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -128,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -258,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0130-surrounded-regions) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
