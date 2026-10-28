@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0136-single-number) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0136-single-number) |
 ## Bubble Sort
 |  |
 | ------- |
