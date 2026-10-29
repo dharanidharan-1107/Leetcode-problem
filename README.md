@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0166-fraction-to-recurring-decimal) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dharanidharan-1107/Leetcode-problem/tree/master/0166-fraction-to-recurring-decimal) |
 ## Trie
 |  |
 | ------- |
